@@ -1,0 +1,1 @@
+Small Java game using JFrame and mouse input. A ball of specified size will move across the screen and "bounce" on the edge of the frame, when a ball is clicked it will split into smaller balls which will continue to bounce around the screen etc. 
